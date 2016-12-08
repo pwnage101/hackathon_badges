@@ -1,4 +1,4 @@
-Trinkets for an event at the edX office.  Originally designed for the
+Trinkets/ornaments for an event at the edX office.  Originally designed for the
 `2016 December hackathon <https://openedx.atlassian.net/wiki/display/OPEN/Hackathon+XV>`_.
 
 .. image:: badge.jpg
@@ -47,3 +47,10 @@ are manual labor steps:
 5. press GO.
 
 Don't walk away, stay in case there is a fire.
+
+Usage Instructions
+==================
+
+Hang it from a thumb tack, or a christmas tree:
+
+.. image:: hanging.jpg
