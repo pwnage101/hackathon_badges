@@ -1,5 +1,5 @@
 Trinkets for an event at the edX office.  Originally designed for the
-`2016 December hackathon <https://openedx.atlassian.net/wiki/display/OPEN/Hackathon+XV>`.
+`2016 December hackathon <https://openedx.atlassian.net/wiki/display/OPEN/Hackathon+XV>`_.
 
 .. image:: badge.jpg
 
