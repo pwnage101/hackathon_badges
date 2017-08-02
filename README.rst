@@ -16,7 +16,7 @@ Build Instructions
 Cutting Instructions
 ====================
 
-We cut these using the Epson CNC laser cutter at the MIT Hobby Shop.  The
+We cut these using the Epilog CNC laser cutter at the MIT Hobby Shop.  The
 machine was configured to accept data from CorelDraw, so we did the following
 things to get it to work with our files:
 
